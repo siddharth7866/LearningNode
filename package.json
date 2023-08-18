@@ -9,6 +9,7 @@
   "author": "siddharth",
   "license": "ISC",
   "dependencies": {
-    "expres": "^0.0.5"
+    "expres": "^0.0.5",
+    "superheroes": "^3.0.0"
   }
 }
