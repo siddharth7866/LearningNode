@@ -4,4 +4,9 @@ sid = {
   Birthday: 6,
 };
 
-module.exports = sid;
+harry = {
+  name: "danish",
+  profession: "Doctor",
+};
+
+module.exports = ("sid", "harry");
