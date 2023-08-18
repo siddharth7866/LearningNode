@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "siddharth",
-  "type": "module",
   "license": "ISC",
   "dependencies": {
     "expres": "^0.0.5"
