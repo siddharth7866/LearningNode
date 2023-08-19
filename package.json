@@ -11,5 +11,6 @@
   "dependencies": {
     "expres": "^0.0.5",
     "superheroes": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }
